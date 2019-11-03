@@ -1,1 +1,1 @@
-# FaceNetDemo
+# Demo to FaceNet facial verification
